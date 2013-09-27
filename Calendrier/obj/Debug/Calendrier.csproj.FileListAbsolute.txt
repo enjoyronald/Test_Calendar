@@ -34,3 +34,4 @@ G:\WP8\WP8_projets\Calendar\Calendrier\obj\Debug\Calendrier.csproj.GenerateResou
 G:\WP8\WP8_projets\Calendar\Calendrier\obj\Debug\Calendrier.dll
 G:\WP8\WP8_projets\Calendar\Calendrier\obj\Debug\Calendrier.pdb
 G:\WP8\WP8_projets\Calendar\Calendrier\obj\Debug\XapCacheFile.xml
+G:\WP8\WP8_projets\Calendar\Calendrier\Bin\Debug\Properties\WMAppManifest.xml
